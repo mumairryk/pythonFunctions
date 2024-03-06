@@ -4,3 +4,4 @@ def greetings(name,cls="Python"):
 
 
 greetings("Samay","Web")
+greetings("Samay","Machine Learning")
